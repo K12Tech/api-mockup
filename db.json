@@ -7,5 +7,12 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "classes":[
+    {
+    "class_id":1,
+      "name":"aa name",
+      "period_id":3
+    }
+    ]
 }
